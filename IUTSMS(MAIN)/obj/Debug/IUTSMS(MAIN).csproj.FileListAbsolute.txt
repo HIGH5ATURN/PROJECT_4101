@@ -1,0 +1,17 @@
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\bin\Debug\IUTSMS(MAIN).exe.config
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\bin\Debug\IUTSMS(MAIN).exe
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\bin\Debug\IUTSMS(MAIN).pdb
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\bin\Debug\Guna.UI.dll
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).csproj.AssemblyReference.cache
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).csproj.SuggestedBindingRedirects.cache
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.Form1.resources
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.Properties.Resources.resources
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).csproj.GenerateResource.cache
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).csproj.CoreCompileInputs.cache
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).csproj.CopyComplete
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).exe
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS(MAIN).pdb
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.Admin_Form.resources
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.login_AF__user_control.resources
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.Student_Form.resources
+E:\IUTSMS(MAIN)\IUTSMS(MAIN)\obj\Debug\IUTSMS_MAIN_.Student_user_control.resources
